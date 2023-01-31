@@ -1,4 +1,4 @@
-## Variables
+# Variables
 
 Una variable es un elemento de datos con nombre cuyo valor puede cambiar durante el curso de la ejecución de un programa.
 
