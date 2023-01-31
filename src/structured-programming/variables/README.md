@@ -69,8 +69,6 @@ let posiciones = [0, 1, 2, 3]
 
 Asignarle un dato a una variable consiste en reemplazar el valor anterior o inicial de la variable con un valor nuevo. Una vez que se asigna un nuevo valor, el valor anterior es eliminado de la memoria y no es posible recuperarlo.
 
-----
-
 Ejemplos:
 
 ```
