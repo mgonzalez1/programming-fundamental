@@ -4,11 +4,11 @@
 
 ## Tabla de contenido
 ### Fundamentos de programación estructurada
-- <a href="https://github.com/mgonzalez1/programming-fundamental/tree/main/src/structured-programming/variables">Variables</a>  
-	- Tipos de datos  
-		- Tipos de datos primitivos  
-		- Tipos de datos complejos  
-	- Asignación de valores  
+- <a href="src/structured-programming/variables">Variables</a>  
+	- <a href="src/structured-programming/variables#tipos-de-datos">Tipos de datos</a>  
+		- <a href="src/structured-programming/variables#datos-primitivos">Tipos de datos primitivos</a>  
+		- <a href="src/structured-programming/variables#datos-complejos">Tipos de datos complejos</a>  
+	- <a href="src/structured-programming/variables#asignación-de-valores">Asignación de valores</a>  
 - Estructuras de control  
 	- Condicionales  
 		- If  
