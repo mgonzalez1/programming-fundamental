@@ -20,7 +20,7 @@ Es la capacidad de una subclase de heredar de múltiples superclases.
 
 <b>Clases abstractas</b>: Una clase abstracta es una clase común que posee atributos y métodos, y tiene como mínimo un método abstracto, además puede contener métodos normales. Esta clase no puede ser instanciada, solo puede heredarse, o sea no se puede usar para crear un objeto.
 
-## interfaces
+## Interfaces
 
 Una interfaz es un conjunto de métodos y propiedades que no tiene ninguna implementación. La implementación la va a hacer cada uno de los elementos que herede de la interfaz dependiendo de sus necesidades.
 
