@@ -74,6 +74,9 @@ Ejemplos:
 ```
 ## Asignacion de valores
 
-# Array de strings
+# Asignacion: Array de strings
 let listaMercado = ['arroz', 'azucar', 'harina', 'cafe', 'sal', 'aceite', 'mantequilla']
+
+# Reemplazando el valor de la variable listaMercado
+listaMercado = ['arroz', 'harina', 'melon']
 ```
