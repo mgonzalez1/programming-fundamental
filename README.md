@@ -4,7 +4,7 @@
 
 ## Tabla de contenido
 ### Fundamentos de programación estructurada
-- Variables  
+- <a href="https://github.com/mgonzalez1/programming-fundamental/tree/main/src/structured-programming/variables">Variables</a>  
 	- Tipos de datos  
 		- Tipos de datos primitivos  
 		- Tipos de datos complejos  
