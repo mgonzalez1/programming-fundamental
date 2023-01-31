@@ -38,8 +38,8 @@
 	- Abstracción y clases abstractas  
 	- Interfaces  
 	- Polimorfismo  
-- Clonación  
-- Composición
+- <a href="src/oop/cloning">Clonación</a>  
+- <a href="src/oop/composition">Composición</a>
 
 ### Fundamentos del diseño de algoritmos
 - Algoritmo  
