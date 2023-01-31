@@ -25,14 +25,14 @@
 	- Paso de variables por referencia
 
 ### Fundamentos de programación orientada a objetos
-- Clases  
+- <a href="src/oop/classes">Clases</a>  
 	- Atributos  
 	- Constructores  
 	- Métodos  
 	- Modificadores de acceso  
 	- Encapsulamiento  
 	- Instanciación, Objetos, Estado y Mutación de Estado  
-- Herencia  
+- <a href="src/structured-programming/Inheritance">Herencia</a>  
 	- Herencia simple  
 	- Herencia múltiple  
 	- Abstracción y clases abstractas  
