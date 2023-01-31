@@ -32,7 +32,7 @@
 	- Modificadores de acceso  
 	- Encapsulamiento  
 	- Instanciación, Objetos, Estado y Mutación de Estado  
-- <a href="src/structured-programming/inheritance">Herencia</a>  
+- <a href="src/oop/inheritance">Herencia</a>  
 	- Herencia simple  
 	- Herencia múltiple  
 	- Abstracción y clases abstractas  
